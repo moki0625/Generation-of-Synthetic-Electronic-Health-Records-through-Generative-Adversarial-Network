@@ -1,0 +1,1 @@
+# Generation-of-Synthetic-Electronic-Health-Records-through-Generative-Adversarial-Network
