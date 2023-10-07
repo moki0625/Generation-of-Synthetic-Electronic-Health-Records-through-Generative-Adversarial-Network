@@ -20,5 +20,5 @@ The model training was processed on NVIDIA GeForce RTX 3080 Ti gpu version.
 2. Run the code on the server.
 
 ### GANs
-1.Download the code file `GANs_Model.ipynb` in `~/Model/`.
-2.  Run the code on the server.
+1. Download the code file `GANs_Model.ipynb` in `~/Model/`.
+2. Run the code on the server.
