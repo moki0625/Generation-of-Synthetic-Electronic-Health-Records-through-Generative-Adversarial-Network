@@ -1,6 +1,6 @@
 # Generation-of-Synthetic-Electronic-Health-Records-through-Generative-Adversarial-Network
 
-This work aims to implement a generative model for Type 2 diabetes electronic health records (EHRs) generation, the model combined with a **Kernelized AutoEncoder** and a **Generative Adversarial Network (GANs)**, it can be used to generate 10 continuous clinical variables *(triglycerides (TG), Creatinine (CREAT), High-density lipoprotein (COLHDL), Low-density lipoprotein (COLLDL), Total cholesterol (COLTOT), glycated hemoglobin (HbA1c), albumin/creatinine ratio (CAC), systolic blood pressure (EK201), diastolic blood pressure (EK202), and BMI (TT103))*.
+This work aims to implement a generative model for Type 2 diabetes electronic health records (EHRs) generation, the model is constructed by a **Kernelized AutoEncoder** and a **Generative Adversarial Network (GANs)**, it can be used to generate 10 continuous clinical variables *(triglycerides (TG), Creatinine (CREAT), High-density lipoprotein (COLHDL), Low-density lipoprotein (COLLDL), Total cholesterol (COLTOT), glycated hemoglobin (HbA1c), albumin/creatinine ratio (CAC), systolic blood pressure (EK201), diastolic blood pressure (EK202), and BMI (TT103))*.
 
 The original data was collected from the **Information System for the Development of Research in Primary Care(SIDIAP)**, the study period was from *Jan 1st, 2013 to Dec 31st, 2017*, the whole process of implementation and results can be found in following [thesis](https://drive.google.com/file/d/1Fxl0pxWkKYTn53rL0XzoLHE1hyskkFWx/view?usp=sharing)
 
